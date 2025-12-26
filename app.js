@@ -61,7 +61,6 @@ function checkAns(idx) {
     setTimeout(() => {
       document.body.style.backgroundColor = "white";
     },200);
-
     reset();
   }
 }
